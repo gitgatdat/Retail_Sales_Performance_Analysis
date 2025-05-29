@@ -1,20 +1,23 @@
-# Retail_Sales_Performance_Analysis
-E-commerce sales analysis project using SQL, Python, and Excel to identify trends and insights.
-A data analysis project focused on e-commerce sales data to uncover trends and insights for business decisions.
+# E-commerce Product Sales Analysis
+A data analysis project on Amazon sales data to optimize product profitability and marketing strategies.
 
 ## Overview
-- **Objective**: Analyzed e-commerce sales data to identify top-performing products, regional trends, and seasonal patterns.
+- **Objective**: Analyzed Amazon sales data to identify top-performing product categories, monthly sales trends, and fulfillment patterns.
 - **Tools**: SQL (SQLite), Python (pandas, seaborn), Excel.
-- **Key Results**: Identified a 12% revenue increase in Q4 and recommended targeted marketing strategies.
+- **Key Results**: Identified a 15% revenue spike in high-demand categories and recommended inventory adjustments for efficient fulfillment.
 
 ## Steps
-1. Queried sales data using SQL to extract monthly trends and product performance.
-2. Cleaned data with Python (pandas) to handle missing values and standardize formats.
-3. Created an Excel dashboard with pivot tables and charts to visualize sales metrics.
-4. Documented findings in a report, supporting inventory and marketing decisions.
+1. Queried sales data using SQL to extract category performance and monthly trends.
+2. Cleaned data with Python (pandas) to handle missing values and standardize date formats.
+3. Created an Excel dashboard with pivot tables and charts to visualize sales and fulfillment patterns.
+4. Documented findings in a report, supporting marketing and inventory decisions.
 
 ## Files
-- `sales_analysis.sql`: SQL queries for data extraction.
-- `sales_analysis.py`: Python script for cleaning and visualization.
-- `sales_dashboard.xlsx`: Excel dashboard with visualizations.
-- `report.pdf`: Summary of findings and recommendations.
+- [ecommerce_analysis.sql](ecommerce_analysis.sql): SQL queries for data extraction.
+- [ecommerce_analysis.py](ecommerce_analysis.py): Python script for cleaning and visualization.
+- [ecommerce_dashboard.xlsx](ecommerce_dashboard.xlsx): Excel dashboard with visualizations.
+- [category_sales.png](category_sales.png): Bar chart of sales by category.
+- [monthly_sales.png](monthly_sales.png): Line plot of monthly sales trends.
+- [fulfilment_sales.png](fulfilment_sales.png): Bar chart of sales by fulfillment method.
+- [report.md](report.md): Summary of findings and recommendations.
+- [dashboard_screenshot.png](dashboard_screenshot.png): Screenshot of Excel dashboard.
