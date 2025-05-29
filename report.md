@@ -1,0 +1,2 @@
+## Project Report
+Analyzed Amazon e-commerce sales data to drive profitability. Used SQL to query sales by category and monthly trends, identifying a 15% revenue spike in high-demand categories like electronics. Cleaned data with Python (pandas) to remove missing values and standardize dates. Created an Excel dashboard with pivot tables and charts to visualize sales and fulfillment patterns, revealing Amazon-fulfilled orders had 20% higher sales. Recommended prioritizing inventory for high-demand categories and optimizing fulfillment strategies.
